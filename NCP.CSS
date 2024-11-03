@@ -3,14 +3,14 @@ background-color: white;
 box-sizing: border-box;
 }
 .d{
-    width: 330px;
+    width: 350px;
     height: 1000px;
     /* border: 1px solid black; */
 
 }
 .d1{
     /* border: 1px solid black; */
-    width: 330px;
+    width: 350px;
     height: 80px;
     display: flex;
     justify-content: space-around;
@@ -72,7 +72,6 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 }
 .t{
     margin:10px;
-    border: 1px solid rgb(232, 232, 232);
     
 }
 
