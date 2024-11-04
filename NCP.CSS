@@ -4,14 +4,14 @@ padding:0px;
 margin:0px;
 }
 .d{
-    width: 350px;
+    width: 360px;
     height: 1000px;
     /* border: 1px solid black; */
 
 }
 .d1{
     /* border: 1px solid black; */
-    width: 350px;
+    width: 360px;
     height: 80px;
     display: flex;
     justify-content: space-around;
