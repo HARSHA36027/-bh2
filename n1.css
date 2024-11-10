@@ -231,7 +231,7 @@ body {
     
     
     .address {
-  width: 1210px;
+
       margin: 5px;
       height: 260px;
       background-color:whitesmoke;
@@ -241,6 +241,7 @@ body {
       font-size: 20px;
     }
     .ad {
+          width: 1210px;
       padding-top: 10px;
       margin-left: 20px;
       /* font-size: 13px; */
